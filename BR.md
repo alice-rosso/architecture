@@ -152,12 +152,13 @@
 
 # Схемы решения
 ## Общая архитектура
+<https://github.com/alice-rosso/architecture/blob/main/schemes/common.md>
 
 ## Безопасность
-
+<https://github.com/alice-rosso/architecture/blob/main/schemes/security.md>
 
 ## Инфраструктура
-
+<https://github.com/alice-rosso/architecture/blob/main/schemes/infractructure.md>
 
 # Архитектурные риски
 1. Использование арендованных ресурсов
